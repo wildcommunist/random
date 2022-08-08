@@ -1,0 +1,16 @@
+{
+  "type": "cosmos",
+  "value": {
+    "key": "default",
+    "chain-id": "galileo-2",
+    "rpc-addr": "https://rpc-andromeda-testnet.cereslabs.io",
+    "account-prefix": "andr",
+    "keyring-backend": "test",
+    "gas-adjustment": 1.2,
+    "gas-prices": "0.0015uandr",
+    "debug": true,
+    "timeout": "20s",
+    "output-format": "json",
+    "sign-mode": "direct"
+  }
+}
